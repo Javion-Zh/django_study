@@ -1,3 +1,4 @@
 /.vscode/*
 my_new_app/__pycache__/*
 my_new_web/__pycache__/*
+my_new_app/migrations/__pycache__/*
