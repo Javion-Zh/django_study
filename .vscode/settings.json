@@ -1,0 +1,9 @@
+{
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.value": 10,
+    "workbench.editor.limit.perEditorGroup": true,
+    "python.formatting.provider": "yapf",
+    "python.linting.enabled": false,
+    "python.linting.flake8Enabled": true
+}
